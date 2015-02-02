@@ -106,18 +106,20 @@
 					</option>
 				</select>
 				
-				</h1>
-			</div>
+			</h1>
 
-
-			<div class="col-sm-4" >
-			</div>
-
+			
 		</div>
-		 <div class = "container" >
-        <table name="table" id="table" class ="table">
-          
-        </table>
-      </div>
-	</body>
-	</html>
+
+
+		<div class="col-sm-4" >
+		</div>
+
+	</div>
+	<div class = "container" >
+		<table name="table" id="table" class ="table">
+			
+		</table>
+	</div>
+</body>
+</html>

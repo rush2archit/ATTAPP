@@ -22,7 +22,7 @@
                                     $correct_credentials = mysql_query("SELECT * FROM login WHERE username = '$username' AND password = '$password' ") or die(mysql_error());
                                     if(mysql_num_rows($correct_credentials)>0){
                                                 
-                                               header("Location: second.php");
+                                               header("Location: sec.php");
 die();
                                               exit();
                                     }
